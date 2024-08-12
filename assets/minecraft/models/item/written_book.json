@@ -5,6 +5,9 @@
   },
 	"overrides": 
 	[
-		{ "predicate": { "custom_model_data": 1}, "model": "at/bookat"}
+		{ "predicate": { "custom_model_data": 1}, "model": "at/bookat"},
+		{ "predicate": { "custom_model_data": 1}, "model": "ld/bookld"},
+		{ "predicate": { "custom_model_data": 1}, "model": "dg/bookdg"}
+		
   ]
 }
