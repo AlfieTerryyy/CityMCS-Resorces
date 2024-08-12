@@ -8,6 +8,6 @@
 		{ "predicate": { "custom_model_data": 1}, "model": "ld/bookld"},
 		{ "predicate": { "custom_model_data": 2}, "model": "dg/bookdg"},
 		{ "predicate": { "custom_model_data": 7243001}, "model": "at/bookat"},
-		{ "predicate": { "custom_model_data": 7243001}, "model": "at/devilbook"}
+		{ "predicate": { "custom_model_data": 7243002}, "model": "at/devilbook"}
   ]
 }
