@@ -19,6 +19,16 @@
             "type": "directory",
             "source": "legal",
             "prefix": "legal/"
+                },
+                {
+            "type": "directory",
+            "source": "ld",
+            "prefix": "ld/"
+        },
+                {
+            "type": "directory",
+            "source": "dg",
+            "prefix": "dg/"
         }
     ]
 }
