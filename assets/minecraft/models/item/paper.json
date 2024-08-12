@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/paper"
+  },
+	"overrides": 
+	[
+		{ "predicate": { "custom_model_data": 1}, "model": "legal/atid"},
+		{ "predicate": { "custom_model_data": 2}, "model": "legal/atbcert"},
+		{ "predicate": { "custom_model_data": 3}, "model": "legal/atbcard"},	
+		{ "predicate": { "custom_model_data": 10}, "model": "legal/ldid"},
+		{ "predicate": { "custom_model_data": 20}, "model": "legal/ldbcert"},
+		{ "predicate": { "custom_model_data": 30}, "model": "legal/ldbcard"},
+		{ "predicate": { "custom_model_data": 100}, "model": "legal/dgid"},
+		{ "predicate": { "custom_model_data": 200}, "model": "legal/dgbcert"},
+		{ "predicate": { "custom_model_data": 300}, "model": "legal/dgbcard"}
+  ]
+}

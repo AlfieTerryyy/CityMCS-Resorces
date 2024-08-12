@@ -1,0 +1,37 @@
+{
+  "at.sound1": {
+    "sounds": [
+      "at/1"
+    ]
+  },
+  "at.sound2": {
+    "sounds": [
+      "at/2"
+    ]
+  },
+  "at.sound3": {
+    "sounds": [
+      "at/3"
+    ]
+    },
+  "at.sound4": {
+    "sounds": [
+      "at/4"
+    ]
+  },
+    "city.lorax1": {
+    "sounds": [
+      "city/lorax1"
+    ]
+  },
+  "city.lorax2": {
+    "sounds": [
+      "city/lorax2"
+    ]
+  },
+  "city.lorax3": {
+    "sounds": [
+      "city/lorax3"
+    ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "sources": [
+        {
+            "type": "directory",
+            "source": "city",
+            "prefix": "city/"
+        },
+        {
+            "type": "directory",
+            "source": "at",
+            "prefix": "at/"
+        },
+                {
+            "type": "directory",
+            "source": "cat",
+            "prefix": "cat/"
+        },
+                {
+            "type": "directory",
+            "source": "legal",
+            "prefix": "legal/"
+        }
+    ]
+}
